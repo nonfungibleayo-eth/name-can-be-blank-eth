@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Eibrahim ayodeji 
+
+
+- 👋 Hi, I’m Eibrahim ayodeji a smart contract developer and web 3 front-end developer
 - 👀 I’m interested in web 3 and blockchain development 
 - 🌱 I’m currently learning solidity and javascript
 - 💞️ I’m looking to collaborate on web 3 and blockchain projects
