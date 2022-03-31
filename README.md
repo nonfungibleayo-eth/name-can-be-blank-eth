@@ -8,11 +8,11 @@
 
 MY SKILLSET 
 
-. Solidity
-. JavaScript
-. web3.js
-. Truffle
-. HTML & CSS
+- Solidity
+- JavaScript
+- web3.js
+- Truffle
+- HTML & CSS
 
 <!---
 name-can-be-blank-eth/name-can-be-blank-eth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
